@@ -38,7 +38,7 @@
 
   <ItemGroup>
     <PackageReference Include="$(ExcludedBizTalkFactoryPackages)" Version="2.*" ExcludeAssets="runtime" />
-    <PackageReference Include="log4net" Version="2.0.14" ExcludeAssets="runtime" />
+    <PackageReference Include="log4net" Version="3.3.0" ExcludeAssets="runtime" />
   </ItemGroup>
 
   <ItemGroup>
